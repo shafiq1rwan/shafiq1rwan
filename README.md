@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @shafiq1rwan
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Java, C#, AngularJS
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me? Send me an email!
