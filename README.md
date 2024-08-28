@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @shafiq1rwan
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently using Java, C#, PHP, AngularJS and Flutter in Development
+- 🌱 Java, C#, PHP, AngularJS for Web Development
+- 🌱 Flutter for Mobile Development
+- 🌱 Godot Engine for Game Development
 - 💞️ I’m looking to collaborate on many project
 - 📫 How to reach me? Send me an email!
